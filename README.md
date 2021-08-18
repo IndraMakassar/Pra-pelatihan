@@ -1,3 +1,3 @@
 # Pra-pelatihan
 File Dari Pelatihan SITe.com
-kalau ada yang mau bertanya silahkan chat
+kalau ada yang mau bertanya silahkan chat atau tulis di Issues
